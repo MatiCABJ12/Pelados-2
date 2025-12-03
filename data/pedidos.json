@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "producto": "1/4 kilo",
+    "sabores": [
+      "Banana",
+      "Dulce de Leche Los Pelados"
+    ],
+    "nombre": "Matias"
+  }
+]
